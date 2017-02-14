@@ -1,0 +1,55 @@
+.jumbotron{
+  background-color: #FF8029;
+  color: white;
+  font-weight: bold;
+}
+
+.panel-default{
+
+}
+
+.panel > .panel-heading{
+  background-color: #87D8DE;
+}
+
+#terms{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h4{
+  font-style: italic;
+}
+#ulstyle{
+  list-style: none;
+}
+li.hover{
+  color: blue;
+}
+
+ul {
+  list-style: none;
+  font-size: 18px;
+}
+
+.boldtext{
+  color: blue;
+  font-weight: bold;
+}
+
+.col-md-3{
+  background-color: #FFC196;
+  border-width: medium;
+  border-color: black;
+  border-radius: 10px;
+  margin-left: 15px;
+  margin-right: 20px;
+}
+.panel-default{
+  font-weight: bold;
+  font-size: 28px;
+  background-color: #C6FBFF;
+  border-width: thick;
+  border-radius: 10px;
+
+}
