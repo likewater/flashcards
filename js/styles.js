@@ -223,3 +223,21 @@ $(function(){
     });
   });
 });
+
+$(function(){
+  $(document).ready(function(){
+    $("#yes").click(function(){
+      alert("You are a rock star!!");
+    })
+  })
+})
+
+$(function(){
+  $(document).ready(function(){
+    $("#no").click(function(){
+      $("body#myModal").modal()
+      // $("#myModal").modal("You need to hit the books more ");
+      // alert("You need to hit the books more :(")
+    })
+  })
+})
